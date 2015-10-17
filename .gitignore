@@ -56,3 +56,18 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea
+frameworks/runtime-src/proj.android/assets/
+simulator
+frameworks/runtime-src/proj.android/obj/
+frameworks/runtime-src/proj.android/local.properties
+
+simulator/
+build
+debug
+
+frameworks/runtime-src/proj.android/gen/
+
+package
+frameworks/runtime-src/proj.android/ant.properties
+frameworks/runtime-src/proj.android/project.properties

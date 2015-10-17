@@ -1,0 +1,28 @@
+{
+  "ID": "8b33eecf-61db-45c7-a145-711c27993b32",
+  "Version": "2.3.2.3",
+  "Name": "Index",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Size": {
+          "X": 480.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

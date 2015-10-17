@@ -1,0 +1,89 @@
+<Solution>
+  <PropertyGroup Name="fairy2048" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Image Name="back.png" />
+          <Image Name="bg_black.png" />
+          <Image Name="bg_gray.png" />
+          <Image Name="fairy_1024_0001.png" />
+          <Image Name="fairy_1024_0002.png" />
+          <Image Name="fairy_1024_0003.png" />
+          <Image Name="fairy_1024_0004.png" />
+          <Image Name="fairy_1024_0005.png" />
+          <Image Name="fairy_1024_0006.png" />
+          <Image Name="fairy_1024_0007.png" />
+          <Image Name="fairy_1024_0008.png" />
+          <Image Name="fairy_128_0001.png" />
+          <Image Name="fairy_128_0002.png" />
+          <Image Name="fairy_128_0003.png" />
+          <Image Name="fairy_128_0004.png" />
+          <Image Name="fairy_16_0001.png" />
+          <Image Name="fairy_16_0002.png" />
+          <Image Name="fairy_16_0003.png" />
+          <Image Name="fairy_16_0004.png" />
+          <Image Name="fairy_2048_0001.png" />
+          <Image Name="fairy_2048_0002.png" />
+          <Image Name="fairy_2048_0003.png" />
+          <Image Name="fairy_2048_0004.png" />
+          <Image Name="fairy_2048_0005.png" />
+          <Image Name="fairy_2048_0006.png" />
+          <Image Name="fairy_2048_0007.png" />
+          <Image Name="fairy_2048_0008.png" />
+          <Image Name="fairy_256_0001.png" />
+          <Image Name="fairy_256_0002.png" />
+          <Image Name="fairy_256_0003.png" />
+          <Image Name="fairy_256_0004.png" />
+          <Image Name="fairy_256_0005.png" />
+          <Image Name="fairy_256_0006.png" />
+          <Image Name="fairy_256_0007.png" />
+          <Image Name="fairy_256_0008.png" />
+          <Image Name="fairy_2_0001.png" />
+          <Image Name="fairy_2_0002.png" />
+          <Image Name="fairy_2_0003.png" />
+          <Image Name="fairy_2_0004.png" />
+          <Image Name="fairy_32_0001.png" />
+          <Image Name="fairy_32_0002.png" />
+          <Image Name="fairy_32_0003.png" />
+          <Image Name="fairy_32_0004.png" />
+          <Image Name="fairy_4_0001.png" />
+          <Image Name="fairy_4_0002.png" />
+          <Image Name="fairy_4_0003.png" />
+          <Image Name="fairy_4_0004.png" />
+          <Image Name="fairy_512_0001.png" />
+          <Image Name="fairy_512_0002.png" />
+          <Image Name="fairy_512_0003.png" />
+          <Image Name="fairy_512_0004.png" />
+          <Image Name="fairy_512_0005.png" />
+          <Image Name="fairy_512_0006.png" />
+          <Image Name="fairy_512_0007.png" />
+          <Image Name="fairy_512_0008.png" />
+          <Image Name="fairy_64_0001.png" />
+          <Image Name="fairy_64_0002.png" />
+          <Image Name="fairy_64_0003.png" />
+          <Image Name="fairy_64_0004.png" />
+          <Image Name="fairy_8_0001.png" />
+          <Image Name="fairy_8_0002.png" />
+          <Image Name="fairy_8_0003.png" />
+          <Image Name="fairy_8_0004.png" />
+          <Image Name="fairy_bg.png" />
+          <Image Name="hand.png" />
+          <Image Name="hi-white.png" />
+          <Image Name="hiscore.png" />
+          <Image Name="more.png" />
+          <Image Name="music_off.png" />
+          <Image Name="music_on.png" />
+          <Image Name="play.png" />
+          <Image Name="results.png" />
+          <Image Name="retry.png" />
+          <Image Name="score_bg.png" />
+          <Image Name="tutorial.png" />
+        </Folder>
+        <PlistInfo Name="game.csi" Type="Plist" />
+        <Project Name="Index.csd" Type="Scene" />
+        <Project Name="Box.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
